@@ -22,3 +22,4 @@ song.artist.name
 post.author.name
   # => "Hillary"
 ```
+# Phase3RelationshipsBelongsTo
